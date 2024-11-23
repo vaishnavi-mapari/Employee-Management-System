@@ -1,0 +1,26 @@
+
+/* Center the modal form vertically */
+.modal-dialog {
+  display: flex;
+  align-items: center;
+  min-height: calc(100% - 1rem);
+}
+
+/* Adjust table font size */
+table {
+  font-size: 0.9rem;
+}
+
+/* Button hover effects */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Additional spacing */
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.mt-5 {
+  margin-top: 3rem !important;
+}
